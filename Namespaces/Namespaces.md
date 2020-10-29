@@ -1,0 +1,1 @@
+## javascript doesnot support namespaces, But the namespaces are important as they help reduce the number of identifiers for variables , objects and functions that are added to the global scope in your applicaton. 
